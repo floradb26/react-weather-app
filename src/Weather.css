@@ -36,11 +36,10 @@ margin-bottom: 20px;
     list-style: none;
 }
 
-.Weather img {
+.Weather canvas {
     display: inline-block;
-    height: 64px;
-    margin: 0 0 10px 20px;
-    max-width: 64px;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 .Weather .temperature {
