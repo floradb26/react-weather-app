@@ -1,9 +1,9 @@
 .Weather {
-    background: #2C394B;
-    border: 1px solid #2C394B;
+    background: #fdedee;
+    border: 1px solid #fdedee;
     border-radius: 4px;
-    color: #FFAB4C;
-    font-family: monospace;
+    color: #1a116b;
+    font-family: Exo;
     padding: 16px;
 }
 
@@ -12,12 +12,12 @@ margin-bottom: 20px;
 }
 
 .Weather .button-color {
-    background-color: #334756;
-    color:#FF4C29;
+    background-color: #434385;
+    color:#fdedee;
 }
 
 .Weather h1 {
-    font-family: monospace;
+    font-family: Exo;
     font-size: 24px;
     font-weight: 100;
     margin: 20px 0 0 0;
@@ -38,8 +38,7 @@ margin-bottom: 20px;
 
 .Weather canvas {
     display: inline-block;
-    margin-top: 10px;
-    margin-right: 10px;
+    margin: 16px 0 0 90px;
 }
 
 .Weather .temperature {

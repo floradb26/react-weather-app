@@ -9,9 +9,9 @@ export default function App() {
     <div className="App">
       <div className="container"> 
         <Weather defaultCity="Brussels" />
-        <footer>
+        <footer >
           This project is created by Floriane Ramirez De Bruyne and is {" "}
-        <a href="https://github.com/floradb26/react-weather-app" target="_blank" rel="noreferrer">open-sourced on GitHub</a>
+        <a href="https://github.com/floradb26/react-weather-app" target="_blank" rel="noreferrer">open-sourced on GitHub</a> and hosted on <a href="https://naughty-aryabhata-a7d453.netlify.app/" target="_blank" rel="noreferrer">Netlify</a>
         </footer>
         </div>
     </div>
