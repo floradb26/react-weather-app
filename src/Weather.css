@@ -38,7 +38,7 @@ margin-bottom: 20px;
 
 .Weather canvas {
     display: inline-block;
-    margin: 16px 0 0 90px;
+    margin: 16px 0 0 0px;
 }
 
 .Weather .temperature {
