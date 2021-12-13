@@ -16,7 +16,6 @@ export default function WeatherForecast (props) {
         setLoaded(true);
     }
 
-
 if (loaded) {
     return (
         <div className="WeatherForecast row">
